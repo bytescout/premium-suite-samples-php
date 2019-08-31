@@ -1,0 +1,3 @@
+## Index of source code examples:
+
+\Read barcode from image with BarCode Reader SDK
